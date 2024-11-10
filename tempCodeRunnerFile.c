@@ -1,1 +1,3 @@
-static
+
+#include<string.h>
+int main(){
